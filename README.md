@@ -1,4 +1,4 @@
 # Mascota Feliz
-Programa de escritorio en java
-Realizado dentro del programa MisionTIC2022
+Programa de escritorio en java realizado dentro del programa MisionTIC2022.
+
 
